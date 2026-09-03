@@ -3,9 +3,11 @@ name: Android Build (assembleDebug)
 on:
   push:
     branches:
+      - main
       - fix/create-wcx-build
   pull_request:
     branches:
+      - main
       - fix/create-wcx-build
 
 jobs:
