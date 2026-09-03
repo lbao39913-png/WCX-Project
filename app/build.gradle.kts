@@ -42,7 +42,7 @@ dependencies {
     implementation(project(":license"))
     implementation(project(":hook"))
 
-    implementation("androidx.core:core-ktx:1.11.0")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.21")
